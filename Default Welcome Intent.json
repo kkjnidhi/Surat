@@ -1,0 +1,96 @@
+{
+  "id": "724efcb2-c8bb-4bf1-b417-219e8d354d86",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "speech": [
+            "नमस्ते!",
+            "नमस्कार!",
+            "आपका दिन शुभ हो!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing?",
+            "Hello! How can I help you?",
+            "Good day! What can I do for you today?",
+            "Greetings! How can I assist?",
+            "Yes it is a amazing day .How may i help u?",
+            "Amazing to see u on such a lovely day.Plz tell how can i assist u ahead?",
+            "Nice to see you here how may i help u?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "speech": [
+            "హాయ్!",
+            "హలో!",
+            "శుభదినం!",
+            "శుభాకాంక్షలు!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "bn",
+          "speech": [
+            "হাই!",
+            "হ্যালো!",
+            "আশা করি আপনার দিন ভাল যাচ্ছে!",
+            "অভিবাদন জানাই!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta",
+          "speech": [
+            "வணக்கம்!",
+            "வணக்கம்!",
+            "இன்றைய தினம் இனிதாகட்டும்!",
+            "வாழ்த்துகள்!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOMING-BRO"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

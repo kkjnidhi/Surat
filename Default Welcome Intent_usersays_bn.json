@@ -1,0 +1,93 @@
+[
+  {
+    "id": "422dfc67-3f58-47e7-872d-501f52c12222",
+    "data": [
+      {
+        "text": "এখানে স্বাগতম",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "bn",
+    "updated": 0
+  },
+  {
+    "id": "4e074698-9c0b-4597-aa41-c9cee7068408",
+    "data": [
+      {
+        "text": "স্বাগতম",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "bn",
+    "updated": 0
+  },
+  {
+    "id": "0699d6b0-c90d-4f8f-a049-0a1948800067",
+    "data": [
+      {
+        "text": "তোমাকে অনেক অনেক স্বাগতম",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "bn",
+    "updated": 0
+  },
+  {
+    "id": "9a38c78c-9644-44b1-a55d-ac5caa77cda8",
+    "data": [
+      {
+        "text": "এটা আমার আনন্দ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "bn",
+    "updated": 0
+  },
+  {
+    "id": "b8df9ac0-5200-4f58-a35c-9a24694de4a6",
+    "data": [
+      {
+        "text": "নিশ্চিত স্বাগতম",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "bn",
+    "updated": 0
+  },
+  {
+    "id": "e19faf3e-89cc-45e3-8c72-5d53be149098",
+    "data": [
+      {
+        "text": "আমার আনন্দ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "bn",
+    "updated": 0
+  },
+  {
+    "id": "7f0f198a-080b-41e6-b8bb-18e1977f2d56",
+    "data": [
+      {
+        "text": "তোমাকে স্বাগতম",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "bn",
+    "updated": 0
+  }
+]

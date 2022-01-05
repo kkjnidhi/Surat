@@ -1,0 +1,58 @@
+[
+  {
+    "id": "7110b38c-5ce0-473a-b364-013493ca92b6",
+    "data": [
+      {
+        "text": "Cost of Amaazia park?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bf4583d-45a8-483c-9a22-6ffa8fa76fda",
+    "data": [
+      {
+        "text": "Rides in Amaazia park?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b722ac5-78f3-467f-8e9f-24c3eec0bc82",
+    "data": [
+      {
+        "text": "reviews on Amaazia park",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "174b51ef-ac4b-4b76-b508-82cc684b8ec7",
+    "data": [
+      {
+        "text": "tell something about ",
+        "userDefined": false
+      },
+      {
+        "text": "Amaazia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

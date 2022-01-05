@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2d3d112e-23e1-479d-a4a9-fd7a0f768bb0",
+    "data": [
+      {
+        "text": "reviews about Dumas Beach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90ecd21a-e28b-4ee9-836f-738d8afcb25f",
+    "data": [
+      {
+        "text": "review on Dumas Beach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0df05a60-4e10-4218-b897-7c0f77d370d6",
+    "data": [
+      {
+        "text": "Dumas Beach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02c1c244-9536-4029-b1fc-5f841750623e",
+    "data": [
+      {
+        "text": "ok then tell about Dumas Beach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

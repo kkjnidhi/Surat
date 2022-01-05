@@ -1,0 +1,41 @@
+{
+  "id": "ae03be5b-0c16-48ad-9acb-c7205a6508a4",
+  "name": "attractions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "attractions-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There are many places like  Dumas Beach,Sardar Patel Museum,Science Center Surat,Amaazia Water Park and many more.",
+            "You must visit Dumas Beach,Sardar Patel Museum,Science Center Surat,Amaazia Water Park and other places with family as they are among the most visited places in surat."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

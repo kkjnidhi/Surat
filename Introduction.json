@@ -1,0 +1,74 @@
+{
+  "id": "a11e95d9-cc2e-4b6b-b88a-a303dbaccae6",
+  "name": "Introduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0bbefa59-7117-488d-826c-4418f8f2a845",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May i know your bueatiful name?"
+            },
+            {
+              "lang": "en",
+              "value": "Can u plz tell me your name?"
+            },
+            {
+              "lang": "en",
+              "value": "May i know your name?"
+            },
+            {
+              "lang": "en",
+              "value": "Could u plz tell me your name?"
+            },
+            {
+              "lang": "en",
+              "value": "Plz tell me your name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "oh!What a amazing name it is.",
+            "oh nice to see u $person",
+            "Nice to see u $person here.",
+            "Wow such a bueatiful name it is $person"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

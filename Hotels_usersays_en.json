@@ -1,0 +1,91 @@
+[
+  {
+    "id": "71c82f04-f476-46fd-9cfc-074bde380535",
+    "data": [
+      {
+        "text": "About hotels.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e053e498-b122-491f-8827-6f0d4966d256",
+    "data": [
+      {
+        "text": "ok then plz tell me about some hotels.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c47c441-e238-4f42-a5d3-685c51398f82",
+    "data": [
+      {
+        "text": "Plz show some ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "userDefined": false
+      },
+      {
+        "text": "-star hotels of ",
+        "userDefined": false
+      },
+      {
+        "text": "surat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7a75ec3-f36a-4142-bb54-a5c72dfba9b5",
+    "data": [
+      {
+        "text": "hotels in ",
+        "userDefined": false
+      },
+      {
+        "text": "surat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "700a73f5-6d45-472e-881f-98e15af98646",
+    "data": [
+      {
+        "text": "Any staying place?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

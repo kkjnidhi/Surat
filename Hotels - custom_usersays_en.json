@@ -1,0 +1,40 @@
+[
+  {
+    "id": "6f1be1da-e339-46c0-9591-77e412ba5d77",
+    "data": [
+      {
+        "text": "ok tell about ",
+        "userDefined": false
+      },
+      {
+        "text": "The Park Infinity",
+        "meta": "@Hotels",
+        "alias": "Hotels",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbe67370-5383-499c-a624-7b55bcba2b7d",
+    "data": [
+      {
+        "text": "OK great, give a brief information about ",
+        "userDefined": false
+      },
+      {
+        "text": "The Park Infinity",
+        "meta": "@Hotels",
+        "alias": "Hotels",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

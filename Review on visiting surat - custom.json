@@ -1,0 +1,73 @@
+{
+  "id": "05db80f6-63b9-49fc-a455-2b747dfdbd4f",
+  "parentId": "7df1c0fa-400e-41c1-8e7b-d181aa095862",
+  "rootParentId": "7df1c0fa-400e-41c1-8e7b-d181aa095862",
+  "name": "Review on visiting surat - custom",
+  "auto": true,
+  "contexts": [
+    "Reviewonvisitingsurat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Reviewonvisitingsurat.Reviewonvisitingsurat-custom",
+      "affectedContexts": [
+        {
+          "name": "custom-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "That is great,would you like to know more about surat like some attraction spots,hotels,camping sites etc."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "bn",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

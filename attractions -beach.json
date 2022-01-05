@@ -1,0 +1,73 @@
+{
+  "id": "9f16a71a-3100-405f-8974-284016235591",
+  "parentId": "ae03be5b-0c16-48ad-9acb-c7205a6508a4",
+  "rootParentId": "ae03be5b-0c16-48ad-9acb-c7205a6508a4",
+  "name": "attractions -beach",
+  "auto": true,
+  "contexts": [
+    "attractions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "attractions.attractions-custom",
+      "affectedContexts": [
+        {
+          "name": "custom-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dumas Beach is a rural beach along the Arabian Sea, located 21 kilometres (13 mi) southwest of the city of Surat in the Indian state of Gujarat.It is a popular tourist destination in South Gujarat. Dumas Beach is justly famous for being in the top 35 haunted spots in India.Apart from the beach, places of interest at Dumas include the Dariya Ganesh Temple located adjacent to the main beach. The promenade has several shops selling Indian snacks like Bhajiya (including the famous \"Lashkari Tomato Bhajiya\"), Pav Bhaji, sweet corn roasted on charcoal, besides Indian Chinese cuisine. There are also several restaurants serving Punjabi food and Indian food with vegetarian options for people."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "bn",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

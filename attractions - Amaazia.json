@@ -1,0 +1,73 @@
+{
+  "id": "51663eb0-7c44-45c5-91fe-f1bada3d4b35",
+  "parentId": "ae03be5b-0c16-48ad-9acb-c7205a6508a4",
+  "rootParentId": "ae03be5b-0c16-48ad-9acb-c7205a6508a4",
+  "name": "attractions - Amaazia",
+  "auto": true,
+  "contexts": [
+    "attractions-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "attractions.attractions-custom-2",
+      "affectedContexts": [
+        {
+          "name": "custom-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Amaazia Amusement Park or Amaazia Waterpark is an amusement water park in Surat.IT has 4.3 ratings and amazing reviews.The rates changes according to season and people too.There are three types of rides available \"Thrill\", \"Fun\" and \"Kids\". But now according to covid-19 situation some of them are closed."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "bn",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "9818bb61-c961-46a4-936f-bca129c24c5d",
+    "data": [
+      {
+        "text": "Places to visit with family in ",
+        "userDefined": false
+      },
+      {
+        "text": "surat",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92d763c9-324c-4dfc-a8aa-7eb10b1d93b0",
+    "data": [
+      {
+        "text": "some places to visit in ",
+        "userDefined": false
+      },
+      {
+        "text": "surat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46cd6489-36f8-4239-a384-d25b4a16e3af",
+    "data": [
+      {
+        "text": "Tell me some attractions places in ",
+        "userDefined": false
+      },
+      {
+        "text": "surat",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

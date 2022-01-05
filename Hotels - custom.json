@@ -1,0 +1,93 @@
+{
+  "id": "584af6b2-f260-4b99-9be7-fff10853b9b6",
+  "parentId": "572fe57f-b17c-44f6-a1bb-a4e0e8be4740",
+  "rootParentId": "572fe57f-b17c-44f6-a1bb-a4e0e8be4740",
+  "name": "Hotels - custom",
+  "auto": true,
+  "contexts": [
+    "Hotels-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Hotels.Hotels-custom",
+      "affectedContexts": [
+        {
+          "name": "custom-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2b4d9048-73f0-4dd2-9a57-824ced5e08be",
+          "name": "Hotels",
+          "required": true,
+          "dataType": "@Hotels",
+          "value": "$Hotels",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Plz tell which hotel would you like to know?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "This $hotels.original has very good reviews .This is among the most suitable place to live.All the facailities are  amazing and for more detalis you can contact them ."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "te",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ta",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "bn",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
